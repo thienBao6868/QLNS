@@ -1,0 +1,14 @@
+/Users/thienbao/Documents/DEV/C#/bin/Debug/net8.0/C#
+/Users/thienbao/Documents/DEV/C#/bin/Debug/net8.0/C#.deps.json
+/Users/thienbao/Documents/DEV/C#/bin/Debug/net8.0/C#.runtimeconfig.json
+/Users/thienbao/Documents/DEV/C#/bin/Debug/net8.0/C#.dll
+/Users/thienbao/Documents/DEV/C#/bin/Debug/net8.0/C#.pdb
+/Users/thienbao/Documents/DEV/C#/obj/Debug/net8.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thienbao/Documents/DEV/C#/obj/Debug/net8.0/C#.AssemblyInfoInputs.cache
+/Users/thienbao/Documents/DEV/C#/obj/Debug/net8.0/C#.AssemblyInfo.cs
+/Users/thienbao/Documents/DEV/C#/obj/Debug/net8.0/C#.csproj.CoreCompileInputs.cache
+/Users/thienbao/Documents/DEV/C#/obj/Debug/net8.0/C#.dll
+/Users/thienbao/Documents/DEV/C#/obj/Debug/net8.0/refint/C#.dll
+/Users/thienbao/Documents/DEV/C#/obj/Debug/net8.0/C#.pdb
+/Users/thienbao/Documents/DEV/C#/obj/Debug/net8.0/C#.genruntimeconfig.cache
+/Users/thienbao/Documents/DEV/C#/obj/Debug/net8.0/ref/C#.dll
