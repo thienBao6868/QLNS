@@ -16,9 +16,10 @@ namespace C_.AllClass
             return soNgayLamViec * luongNgay + 100 * listNhanVien.Count;
         }
 
-        public override void nhapThongTinNhanVien()
+        public override void nhapThongTinNhanVien() 
         {
             base.nhapThongTinNhanVien();
         }
+        
     }
 }
